@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SpotiSort</string>
+    <string name="progress_message">Sorting...</string>
+    <string name="txt_playlist_creation_cancel">Playlist creation was cancelled!</string>
+    <string name="action_hide">Hide</string>
+    <string name="title_activity_create_playlist">Name your new playlist!</string>
+</resources>
